@@ -1,0 +1,5 @@
+name: Siren
+version: '${project.version}'
+main: net.ixze.siren.Siren
+authors: [ixze]
+description: Anticheat solution
