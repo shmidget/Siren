@@ -5,4 +5,6 @@
 Currently Supports:
 - 1 Movement Check
 
+
+! Not adding releases to this repository until the anticheat is stable.
 - Date Last Updated: [27/06/23]
